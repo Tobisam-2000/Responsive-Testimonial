@@ -7,3 +7,6 @@ In this mini project [Responsive Testimonials Section], there are three testimon
 * Font Awesome
 * HTML
 * CSS
+
+# Desktop View:
+![picture](https://github.com/tobisam2000/Responsive-Testimonial/blob/main/Testimonial.jpg)
